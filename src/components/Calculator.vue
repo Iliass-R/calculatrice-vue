@@ -3,7 +3,7 @@
     <p class="mt-10 text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">Calculatrice</p>
     <p class="max-w-3xl mt-5 mx-auto text-xl text-gray-500">Faite avec Vue3 Vite et Tailwind CSS</p>
 
-    <div class='p-5 max-w-4xl mt-8 bg-black m-auto w-8/12 h-2/4 rounded-lg'>
+    <div class='p-5 mt-8 max-w-md bg-black m-auto w-8/12 h-2/4 rounded-lg'>
 
       <!--  Résultat de la calculatrice -->
       <div class='mx-auto w-full rounded-full m-1 p-4 text-right font-bold text-white bg-gray-800'>
